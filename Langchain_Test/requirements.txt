@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+openai
+tiktoken
+pypdf
+faiss-cpu
+unstructured
+python-docx
+scikit-learn
