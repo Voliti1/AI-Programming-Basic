@@ -25,7 +25,7 @@ from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # OpenAI API 키 설정
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCW9zxkH8ei7jzCQgGlU2x0hseJmnnBTyc"
+os.environ["GOOGLE_API_KEY"] = ""
 
 
 def load_pdf(pdf_path: str) -> List[Document]:
